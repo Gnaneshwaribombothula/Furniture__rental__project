@@ -1,1 +1,2 @@
-https://furniturerentalproject.netlify.app/
+[Live Demo](https://furniturerentalproject.netlify.app/)
+
